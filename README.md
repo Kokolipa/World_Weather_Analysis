@@ -44,8 +44,8 @@ Creating a Python script to visualise the weather of over 500 cities of varying 
 ``` yml
 .
 ├── Analysis_World
-│   ├── output_data                      # This folder contains the analysis & dataset's folder. 
-│   │   ├── cities.csv                           # This folder contains the datasets
+│   ├── output_data                      
+│   │   ├── cities.csv                           
 │   │   ├── Fig1.png
 │   │   ├── Fig2.png  
 │   |   ├── Fig3.png
@@ -59,8 +59,7 @@ Creating a Python script to visualise the weather of over 500 cities of varying 
 │   |   |   ├── Fig3.png 
 │   |   |   ├── Fig4.png 
 │   |   ├── cities.csv 
-│   |   ├── VacationPy.ipynb 
-│   |   ├── WeatherPy.ipynb 
-  # Analysis notebook                        
+│   |   ├── VacationPy.ipynb     # Analysis notebook - Part 2
+│   |   ├── WeatherPy.ipynb      # Analysis notebook  - Part 1                    
 |___README.md
 ``` 
