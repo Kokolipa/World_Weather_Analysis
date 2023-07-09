@@ -60,6 +60,6 @@ Creating a Python script to visualise the weather of over 500 cities of varying 
 │   |   |   ├── Fig4.png 
 │   |   ├── cities.csv 
 │   |   ├── VacationPy.ipynb     # Analysis notebook - Part 2
-│   |   ├── WeatherPy.ipynb      # Analysis notebook  - Part 1                    
+│   |   ├── WeatherPy.ipynb      # Analysis notebook - Part 1                    
 |___README.md
 ``` 
